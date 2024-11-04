@@ -1,4 +1,3 @@
-### hello! 👋
+### Hello! 👋
 
-my name is Emily! pronouns are she/her.  I'm a transgender designer/artist who focuses on having a large, varied skillset!
-
+My name is Emily! My pronouns are she/her. I'm a webdev with an interest in making games/art. 
